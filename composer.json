@@ -1,5 +1,5 @@
 {
-    "name": "ryadnov/zenmoney-php-api-library",
+    "name": "sadykh/zenmoney-php-api-library",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -16,7 +16,7 @@
     },
     "require": {
         "guzzlehttp/guzzle": "~6.3",
-        "symfony/options-resolver": "~3.3"
+        "symfony/options-resolver": "~4.4"
     },
     "config": {
         "sort-packages": true
